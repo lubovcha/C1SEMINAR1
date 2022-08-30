@@ -1,0 +1,16 @@
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\NumbersN5.exe
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\NumbersN5.deps.json
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\NumbersN5.runtimeconfig.json
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\NumbersN5.dll
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\ref\NumbersN5.dll
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\bin\Debug\net6.0\NumbersN5.pdb
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.GlobalUsings.g.cs
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.csproj.AssemblyReference.cache
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.AssemblyInfoInputs.cache
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.AssemblyInfo.cs
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.csproj.CoreCompileInputs.cache
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.dll
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\ref\NumbersN5.dll
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.pdb
+C:\Users\qwer\Desktop\Seminar 1C#\NumbersN5\obj\Debug\net6.0\NumbersN5.genruntimeconfig.cache
