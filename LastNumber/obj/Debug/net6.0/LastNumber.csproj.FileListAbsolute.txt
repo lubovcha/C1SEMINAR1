@@ -1,0 +1,16 @@
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\LastNumber.exe
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\LastNumber.deps.json
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\LastNumber.runtimeconfig.json
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\LastNumber.dll
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\ref\LastNumber.dll
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\bin\Debug\net6.0\LastNumber.pdb
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.GlobalUsings.g.cs
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.csproj.AssemblyReference.cache
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.AssemblyInfoInputs.cache
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.AssemblyInfo.cs
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.csproj.CoreCompileInputs.cache
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.dll
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\ref\LastNumber.dll
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.pdb
+C:\Users\qwer\Desktop\Seminar 1C#\LastNumber\obj\Debug\net6.0\LastNumber.genruntimeconfig.cache
