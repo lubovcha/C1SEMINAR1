@@ -3,11 +3,21 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-System.Console.Write("Введите число 1:"); 
-int a = Console.ReadLine(); 
-Console.Write("Введите число 2: "); 
-int b = Console.ReadLine();
+Console.Write("Введите число a: "); 
+int a = Convert.ToInt32(Console.ReadLine()); 
+ 
+Console.Write("Введите число b: "); 
+int b = Convert.ToInt32(Console.ReadLine()); 
 
-if (a > b) max = a{ 
-    System.Console.WriteLine(max); 
-}
+int max = a;
+int min = b;
+
+if(a>b) max = a;
+if(b>a) max = b;
+if(a<b) min = a;
+if(b<a) min = b;
+
+System.Console.Write("max=");
+System.Console.WriteLine(max); 
+System.Console.Write("min=");
+System.Console.WriteLine(min); 
